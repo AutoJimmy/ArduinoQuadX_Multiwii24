@@ -19,3 +19,5 @@ Using Multiwii 2.4 firmware and Multiwii GUI configuration. This is a brushed qu
   
   <h2>Problem</h2>
   <p>Too heavy = cause: battery.</p>
+
+<p>Watch the demo: https://www.youtube.com/watch?v=Ilx-xXX015U</p>
