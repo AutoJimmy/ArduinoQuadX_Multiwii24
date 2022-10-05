@@ -15,6 +15,7 @@ Using Multiwii 2.4 firmware and Multiwii GUI configuration. This is a brushed qu
   <li>1 Switch</li>
   <li>LiPo Battery 7.4v</li>
   <li>30cm super light frame</li>
+  <li>red SMD led (for stand-by and Arming indicator)</li>
   </ul>
   
   <h2>Problem</h2>
